@@ -1,0 +1,1 @@
+alert("srmuniversity.registration wants to show notification");
